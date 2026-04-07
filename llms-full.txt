@@ -1,0 +1,60 @@
+# Market Disrupt
+> Zendesk Advanced Partner, HubSpot Platinum Solutions Partner, and Webflow Certified Partner based in Texas. Founded in 2015, Market Disrupt is a senior-led technology consulting firm specializing in Zendesk, HubSpot, and Webflow implementation, optimization, and integration for growth-stage companies.
+
+Market Disrupt helps organizations maximize ROI on their existing software investments through customer service architecture, CRM automation, website development, and systems integration. Known for a 4.9-star client rating and senior-led delivery, Market Disrupt serves technology, fitness, healthcare, legal, automotive, and professional services industries. Contact: contact@marketdisrupt.io | +1 (817) 458-0191
+
+## About
+Market Disrupt is a senior-led technology consulting firm founded in 2015. The company specializes in helping growth-stage organizations get more value from their existing software platforms — primarily Zendesk, HubSpot, and Webflow. Engagements are structured around discovery, implementation, and optimization. Delivery is always senior-led with clear communication and real availability. The company holds a 4.9-star client rating across all engagements.
+
+Partner certifications: Zendesk Advanced Partner, HubSpot Platinum Solutions Partner, Webflow Certified Partner.
+
+Industries served: Technology, fitness, healthcare, legal, automotive, professional services.
+
+## Zendesk Services
+Market Disrupt provides full-service Zendesk consulting and implementation including: Customer Service Suite setup, workflow automation for ticket routing and SLA management, AI bot configuration and agent assist, IVR telephony with intelligent routing, knowledge base development, voice AI setup, platform migrations, audits, and day-to-day management and monitoring. Engagements use a 12-week phased rollout structure.
+
+- [Zendesk Services Overview](https://marketdisrupt.io/zendesk): Full-service Zendesk consulting and implementation.
+- [Customer Service Workflow](https://marketdisrupt.io/customer-service-workflow): Design and automation of customer service workflows that improve response times and SLA performance.
+- [Omnichannel Experience](https://marketdisrupt.io/omnichannel-experience): Unified customer experience across email, chat, phone, and social channels.
+- [Telephony & IVR Routing](https://marketdisrupt.io/telephony-ivr-routing): Call flows, queue logic, and intelligent routing for support operations.
+- [External Help Center & Self-Service](https://marketdisrupt.io/external-help-center-self-service): Knowledge base structure, self-service flows, and ticket deflection.
+
+## HubSpot Services
+Market Disrupt provides comprehensive HubSpot consulting and implementation across all Hubs: Marketing Hub (inbound strategy, email, campaigns), Sales Hub (pipeline architecture, deal stages, automation), Service Hub (ticketing, knowledge bases), Commerce Hub (payments, revenue management), and Data Hub (integrations, custom objects). Services include full platform audits, workflow automation, SOP development, and advanced reporting.
+
+- [HubSpot Services Overview](https://marketdisrupt.io/hubspot): Comprehensive HubSpot consulting spanning all Hubs.
+- [CRM Workflow Architecture](https://marketdisrupt.io/crm-workflow-architecture): Automation frameworks, governance rules, and workflow standards.
+- [Sales Pipeline Architecture](https://marketdisrupt.io/sales-pipeline-architecture-design): CRM pipeline design, deal stages, and revenue operations infrastructure.
+- [Contact Lifecycle Design](https://marketdisrupt.io/contact-lifecycle-design): Lifecycle stages, lead status frameworks, and automation rules.
+- [Nurture Sequencing Deployment](https://marketdisrupt.io/nurture-sequencing-deployment): Email nurture flows, segmentation, and lead follow-up automation.
+
+## Webflow Services
+Market Disrupt builds high-performing Webflow websites optimized for conversion, SEO, and maintainability. Services include strategy and discovery, responsive UX design, clean scalable development, CRM and automation integrations, SEO foundations, performance tuning, mobile-first optimization, and custom analytics reporting.
+
+- [Webflow Services Overview](https://marketdisrupt.io/webflow): Strategy, design, and development for conversion-focused websites.
+- [Website Design & Development](https://marketdisrupt.io/website-design-development): High-performing websites built to convert and scale.
+
+## Data & Integration Services
+- [Integrations & Migrations](https://marketdisrupt.io/integrations-migrations): Platform migrations and integrations between Zendesk, HubSpot, Webflow, and third-party systems with field mapping, validation, and automation alignment.
+- [Data Integrity and Cleansing](https://marketdisrupt.io/data-integrity-and-cleansing): CRM data audits, deduplication, field standardization, normalization, and ongoing data quality governance.
+- [Customer Data Strategy](https://marketdisrupt.io/customer-data-strategy): Data models, lifecycle structure, and governance across CX and CRM platforms.
+- [Zendesk & HubSpot Integration](https://marketdisrupt.io/zendesk-hubspot-integration): Connecting Zendesk and HubSpot to unify support and sales data and eliminate silos.
+
+## Employee Services Architecture
+- [Internal Service Desk Systems](https://marketdisrupt.io/internal-service-desk-systems): IT support ticketing, routing, SLAs, and self-service foundations.
+- [Employee Knowledge & Enablement](https://marketdisrupt.io/employee-knowledge-enablement): Internal knowledge bases, documentation hubs, and enablement workflows.
+- [IT Asset Management](https://marketdisrupt.io/it-asset-management-system-development): ITAM data models, workflows, and reporting for hardware, software, and inventory.
+
+## Industries
+- [Technology](https://marketdisrupt.io/tech-industry): CRM automation, Zendesk workflows, and Webflow sites for SaaS and tech teams.
+- [Fitness](https://marketdisrupt.io/fitness-industry): CRM setup, follow-up automation, and conversion-focused websites for fitness businesses.
+- [Legal](https://marketdisrupt.io/legal-industry): Intake automations, pipeline tracking, and CRM workflows for law firms.
+- [Healthcare/Medical](https://marketdisrupt.io/medical-industry): CRM and CX systems for faster intake and consistent follow-up.
+- [Automotive](https://marketdisrupt.io/automotive-industry): Lead capture, service scheduling, and follow-up automation for dealers and auto shops.
+
+## Company
+- [About](https://marketdisrupt.io/about-us): Founded in 2015. Senior-led consulting focused on platform optimization over new implementations.
+- [Blog](https://marketdisrupt.io/blog): Articles on Zendesk, HubSpot, Webflow, CRM strategy, and customer service best practices.
+- [Contact](https://marketdisrupt.io/contact-us): contact@marketdisrupt.io | +1 (817) 458-0191
+- [FAQ](https://marketdisrupt.io/faq): Common questions about services, process, partnerships, and engagement model.
+- [Privacy Policy](https://marketdisrupt.io/privacy-policy): Data collection and usage policy.
