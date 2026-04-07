@@ -1,5 +1,5 @@
 # Market Disrupt
-> Zendesk Advanced Partner, HubSpot Platinum Solutions Partner, and Webflow Certified Partner based in Texas. Founded in 2015, Market Disrupt is a senior-led technology consulting firm specializing in Zendesk, HubSpot, and Webflow implementation, optimization, and integration for growth-stage companies.
+> Zendesk Premier Partner, HubSpot Platinum Solutions Partner, and Webflow Certified Partner based in Texas. Founded in 2015, Market Disrupt is a senior-led technology consulting firm specializing in Zendesk, HubSpot, and Webflow implementation, optimization, and integration for growth-stage companies.
 
 Market Disrupt helps organizations maximize ROI on their existing software investments through customer service architecture, CRM automation, website development, and systems integration. Known for a 4.9-star client rating and senior-led delivery, Market Disrupt serves technology, fitness, healthcare, legal, automotive, and professional services industries.
 
@@ -16,8 +16,14 @@ Market Disrupt helps organizations maximize ROI on their existing software inves
 - [Data Integrity and Cleansing](https://marketdisrupt.io/data-integrity-and-cleansing): CRM data audits, deduplication, normalization, and ongoing data quality management.
 - [Sales Pipeline Architecture](https://marketdisrupt.io/sales-pipeline-architecture-design): HubSpot Sales Hub pipeline design, deal stage automation, and revenue operations infrastructure.
 
+## Platform Comparisons
+- [Zendesk vs. Freshdesk](https://marketdisrupt.io/zendesk-vs-freshdesk): Feature-by-feature comparison of Zendesk and Freshdesk across ticketing, automation, reporting, and pricing. Includes a recommendation guide for teams evaluating both platforms.
+- [Zendesk vs. Intercom](https://marketdisrupt.io/zendesk-vs-intercom): Comparison of Zendesk and Intercom covering ticketing, messaging, AI tools, and use cases. Covers which platform suits SaaS vs. traditional support teams.
+- [HubSpot vs. Salesforce](https://marketdisrupt.io/hubspot-vs-salesforce): Side-by-side comparison of HubSpot and Salesforce CRM across ease of use, marketing features, reporting, and pricing for SMBs and enterprise buyers.
+- [HubSpot vs. Pipedrive](https://marketdisrupt.io/hubspot-vs-pipedrive): Comparison of HubSpot and Pipedrive for growing sales teams, covering pipeline tools, automation, marketing features, and cost-effectiveness.
+
 ## Company
 - [About](https://marketdisrupt.io/about-us): Founded in 2015, senior-led consulting firm focused on optimization of existing platforms over new implementations.
 - [Blog](https://marketdisrupt.io/blog): Articles on Zendesk, HubSpot, Webflow, CRM strategy, and customer service best practices.
 - [Contact](https://marketdisrupt.io/contact-us): contact@marketdisrupt.io | +1 (817) 458-0191
-- [FAQ](https://marketdisrupt.io/faq): Common questions about Market Disrupt's services, process, and engagement model.
+- [FAQ](https://marketdisrupt.io/faq): Common questions about Market Disrupt services, process, and engagement model.
