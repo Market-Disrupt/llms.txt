@@ -1,8 +1,0 @@
-/* TEAM */
-Founder & CEO: Philip Viele
-Contact: contact@marketdisrupt.io
-Location: Texas, USA
-
-/* SITE */
-Built with: Webflow
-Language: English
