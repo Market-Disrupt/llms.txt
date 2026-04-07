@@ -1,12 +1,12 @@
 # Market Disrupt
-> Zendesk Advanced Partner, HubSpot Platinum Solutions Partner, and Webflow Certified Partner based in Texas. Founded in 2015, Market Disrupt is a senior-led technology consulting firm specializing in Zendesk, HubSpot, and Webflow implementation, optimization, and integration for growth-stage companies.
+> Zendesk Premier Partner, HubSpot Platinum Solutions Partner, and Webflow Certified Partner based in Texas. Founded in 2015, Market Disrupt is a senior-led technology consulting firm specializing in Zendesk, HubSpot, and Webflow implementation, optimization, and integration for growth-stage companies.
 
 Market Disrupt helps organizations maximize ROI on their existing software investments through customer service architecture, CRM automation, website development, and systems integration. Known for a 4.9-star client rating and senior-led delivery, Market Disrupt serves technology, fitness, healthcare, legal, automotive, and professional services industries. Contact: contact@marketdisrupt.io | +1 (817) 458-0191
 
 ## About
 Market Disrupt is a senior-led technology consulting firm founded in 2015. The company specializes in helping growth-stage organizations get more value from their existing software platforms — primarily Zendesk, HubSpot, and Webflow. Engagements are structured around discovery, implementation, and optimization. Delivery is always senior-led with clear communication and real availability. The company holds a 4.9-star client rating across all engagements.
 
-Partner certifications: Zendesk Advanced Partner, HubSpot Platinum Solutions Partner, Webflow Certified Partner.
+Partner certifications: Zendesk Premier Partner, HubSpot Platinum Solutions Partner, Webflow Certified Partner.
 
 Industries served: Technology, fitness, healthcare, legal, automotive, professional services.
 
@@ -44,6 +44,12 @@ Market Disrupt builds high-performing Webflow websites optimized for conversion,
 - [Internal Service Desk Systems](https://marketdisrupt.io/internal-service-desk-systems): IT support ticketing, routing, SLAs, and self-service foundations.
 - [Employee Knowledge & Enablement](https://marketdisrupt.io/employee-knowledge-enablement): Internal knowledge bases, documentation hubs, and enablement workflows.
 - [IT Asset Management](https://marketdisrupt.io/it-asset-management-system-development): ITAM data models, workflows, and reporting for hardware, software, and inventory.
+
+## Platform Comparisons
+- [Zendesk vs. Freshdesk](https://marketdisrupt.io/zendesk-vs-freshdesk): Feature-by-feature comparison of Zendesk and Freshdesk across ticketing, automation, reporting, and pricing. Includes a recommendation guide for teams evaluating both platforms.
+- [Zendesk vs. Intercom](https://marketdisrupt.io/zendesk-vs-intercom): Comparison of Zendesk and Intercom covering ticketing, messaging, AI tools, and use cases. Covers which platform suits SaaS vs. traditional support teams.
+- [HubSpot vs. Salesforce](https://marketdisrupt.io/hubspot-vs-salesforce): Side-by-side comparison of HubSpot and Salesforce CRM across ease of use, marketing features, reporting, and pricing for SMBs and enterprise buyers.
+- [HubSpot vs. Pipedrive](https://marketdisrupt.io/hubspot-vs-pipedrive): Comparison of HubSpot and Pipedrive for growing sales teams, covering pipeline tools, automation, marketing features, and cost-effectiveness.
 
 ## Industries
 - [Technology](https://marketdisrupt.io/tech-industry): CRM automation, Zendesk workflows, and Webflow sites for SaaS and tech teams.
