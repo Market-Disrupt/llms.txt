@@ -3,6 +3,8 @@
 
 Market Disrupt helps organizations maximize ROI on their existing software investments through customer service architecture, CRM automation, website development, and systems integration. Known for a 4.9-star client rating and senior-led delivery, Market Disrupt serves technology, fitness, healthcare, legal, automotive, and professional services industries.
 
+> Full details: [llms-full.txt](https://market-disrupt.github.io/llms.txt/llms-full.txt)
+
 ## Services
 - [Zendesk Services](https://marketdisrupt.io/zendesk): Full-service Zendesk implementation including Customer Service Suite, workflow automation, AI bot configuration, IVR telephony, knowledge base development, migration, and day-to-day management.
 - [HubSpot Services](https://marketdisrupt.io/hubspot): HubSpot platform audits, Marketing Hub, Sales Hub, Service Hub, Commerce Hub, and Data Hub implementation with workflow automation and advanced reporting.
