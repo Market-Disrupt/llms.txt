@@ -1,19 +1,21 @@
 # Market Disrupt
-> Zendesk and HubSpot implementation partner and Premier Zendesk reseller based in Texas.
+> Zendesk Advanced Partner, HubSpot Platinum Solutions Partner, and Webflow Certified Partner based in Texas. Founded in 2015, Market Disrupt is a senior-led technology consulting firm specializing in Zendesk, HubSpot, and Webflow implementation, optimization, and integration for growth-stage companies.
+
+Market Disrupt helps organizations maximize ROI on their existing software investments through customer service architecture, CRM automation, website development, and systems integration. Known for a 4.9-star client rating and senior-led delivery, Market Disrupt serves technology, fitness, healthcare, legal, automotive, and professional services industries.
 
 ## Services
-- [Zendesk Services](https://marketdisrupt.io/zendesk)
-- [HubSpot Services](https://marketdisrupt.io/hubspot)
-- [Webflow Services](https://marketdisrupt.io/webflow)
-- [CRM Workflow Architecture](https://marketdisrupt.io/crm-workflow-architecture)
-- [Customer Service Workflow](https://marketdisrupt.io/customer-service-workflow)
-- [Omnichannel Experience](https://marketdisrupt.io/omnichannel-experience)
-- [Integrations & Migrations](https://marketdisrupt.io/integrations-migrations)
-- [Data Integrity and Cleansing](https://marketdisrupt.io/data-integrity-and-cleansing)
-- [Sales Pipeline Architecture](https://marketdisrupt.io/sales-pipeline-architecture-design)
+- [Zendesk Services](https://marketdisrupt.io/zendesk): Full-service Zendesk implementation including Customer Service Suite, workflow automation, AI bot configuration, IVR telephony, knowledge base development, migration, and day-to-day management.
+- [HubSpot Services](https://marketdisrupt.io/hubspot): HubSpot platform audits, Marketing Hub, Sales Hub, Service Hub, Commerce Hub, and Data Hub implementation with workflow automation and advanced reporting.
+- [Webflow Services](https://marketdisrupt.io/webflow): Strategy, responsive design, development, CRM integrations, SEO optimization, and performance tuning for conversion-focused websites.
+- [CRM Workflow Architecture](https://marketdisrupt.io/crm-workflow-architecture): Custom CRM architecture design and automation workflows to improve sales pipeline performance and operational efficiency.
+- [Customer Service Workflow](https://marketdisrupt.io/customer-service-workflow): End-to-end customer service process design, automation, and optimization across support channels.
+- [Omnichannel Experience](https://marketdisrupt.io/omnichannel-experience): Unified customer experience across email, chat, voice, and social channels using Zendesk and HubSpot.
+- [Integrations & Migrations](https://marketdisrupt.io/integrations-migrations): Platform migrations and integrations between Zendesk, HubSpot, Webflow, and third-party systems.
+- [Data Integrity and Cleansing](https://marketdisrupt.io/data-integrity-and-cleansing): CRM data audits, deduplication, normalization, and ongoing data quality management.
+- [Sales Pipeline Architecture](https://marketdisrupt.io/sales-pipeline-architecture-design): HubSpot Sales Hub pipeline design, deal stage automation, and revenue operations infrastructure.
 
 ## Company
-- [About](https://marketdisrupt.io/about-us)
-- [Blog](https://marketdisrupt.io/blog)
-- [Contact](https://marketdisrupt.io/contact-us)
-- [FAQ](https://marketdisrupt.io/faq)
+- [About](https://marketdisrupt.io/about-us): Founded in 2015, senior-led consulting firm focused on optimization of existing platforms over new implementations.
+- [Blog](https://marketdisrupt.io/blog): Articles on Zendesk, HubSpot, Webflow, CRM strategy, and customer service best practices.
+- [Contact](https://marketdisrupt.io/contact-us): contact@marketdisrupt.io | +1 (817) 458-0191
+- [FAQ](https://marketdisrupt.io/faq): Common questions about Market Disrupt's services, process, and engagement model.
