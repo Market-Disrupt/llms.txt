@@ -5,25 +5,50 @@ Market Disrupt helps organizations maximize ROI on their existing software inves
 
 > Full details: [llms-full.txt](https://market-disrupt.github.io/llms.txt/llms-full.txt)
 
+## Pages
+- [Home](https://market-disrupt.github.io/llms.txt/pages/index.md): What Market Disrupt does, partner status, and core services overview.
+- [About](https://market-disrupt.github.io/llms.txt/pages/about.md): Company history, team, certifications, and differentiators.
+- [Contact](https://market-disrupt.github.io/llms.txt/pages/contact.md): How to reach Market Disrupt.
+- [FAQ](https://market-disrupt.github.io/llms.txt/pages/faq.md): Common questions about services, process, and engagements.
+- [Blog](https://market-disrupt.github.io/llms.txt/pages/blog.md): Articles on Zendesk, HubSpot, Webflow, and CRM strategy.
+
 ## Services
-- [Zendesk Services](https://marketdisrupt.io/zendesk): Full-service Zendesk implementation including Customer Service Suite, workflow automation, AI bot configuration, IVR telephony, knowledge base development, migration, and day-to-day management.
-- [HubSpot Services](https://marketdisrupt.io/hubspot): HubSpot platform audits, Marketing Hub, Sales Hub, Service Hub, Commerce Hub, and Data Hub implementation with workflow automation and advanced reporting.
-- [Webflow Services](https://marketdisrupt.io/webflow): Strategy, responsive design, development, CRM integrations, SEO optimization, and performance tuning for conversion-focused websites.
-- [CRM Workflow Architecture](https://marketdisrupt.io/crm-workflow-architecture): Custom CRM architecture design and automation workflows to improve sales pipeline performance and operational efficiency.
-- [Customer Service Workflow](https://marketdisrupt.io/customer-service-workflow): End-to-end customer service process design, automation, and optimization across support channels.
-- [Omnichannel Experience](https://marketdisrupt.io/omnichannel-experience): Unified customer experience across email, chat, voice, and social channels using Zendesk and HubSpot.
-- [Integrations & Migrations](https://marketdisrupt.io/integrations-migrations): Platform migrations and integrations between Zendesk, HubSpot, Webflow, and third-party systems.
-- [Data Integrity and Cleansing](https://marketdisrupt.io/data-integrity-and-cleansing): CRM data audits, deduplication, normalization, and ongoing data quality management.
-- [Sales Pipeline Architecture](https://marketdisrupt.io/sales-pipeline-architecture-design): HubSpot Sales Hub pipeline design, deal stage automation, and revenue operations infrastructure.
+- [Zendesk Services](https://market-disrupt.github.io/llms.txt/pages/zendesk.md): Full-service Zendesk implementation, AI configuration, automation, migrations, and management.
+- [HubSpot Services](https://market-disrupt.github.io/llms.txt/pages/hubspot.md): HubSpot CRM buildouts, Sales/Marketing/Service Hub, automation, and reporting.
+- [Webflow Services](https://market-disrupt.github.io/llms.txt/pages/webflow.md): Strategy, design, development, and ongoing management for Webflow websites.
+- [CRM Workflow Architecture](https://market-disrupt.github.io/llms.txt/pages/crm-workflow-architecture.md): Automation frameworks, governance rules, and workflow standards.
+- [Sales Pipeline Architecture](https://market-disrupt.github.io/llms.txt/pages/sales-pipeline-architecture-design.md): Pipeline design, deal stages, and revenue operations infrastructure.
+- [Contact Lifecycle Design](https://market-disrupt.github.io/llms.txt/pages/contact-lifecycle-design.md): Lifecycle stages, lead status frameworks, and automation rules.
+- [Nurture Sequencing Deployment](https://market-disrupt.github.io/llms.txt/pages/nurture-sequencing-deployment.md): Email nurture flows, segmentation, and lead follow-up automation.
+- [Customer Service Workflow](https://market-disrupt.github.io/llms.txt/pages/customer-service-workflow.md): Ticket routing, SLA automation, and support workflow design.
+- [Omnichannel Experience](https://market-disrupt.github.io/llms.txt/pages/omnichannel-experience.md): Unified support across email, chat, phone, and social.
+- [Telephony & IVR Routing](https://market-disrupt.github.io/llms.txt/pages/telephony-ivr-routing.md): Call flows, queue logic, and intelligent routing.
+- [External Help Center & Self-Service](https://market-disrupt.github.io/llms.txt/pages/external-help-center-self-service.md): Knowledge base structure and ticket deflection.
+- [Customer Data Strategy](https://market-disrupt.github.io/llms.txt/pages/customer-data-strategy.md): Data models, lifecycle structure, and governance.
+- [Integrations & Migrations](https://market-disrupt.github.io/llms.txt/pages/integrations-migrations.md): Platform migrations and system integrations.
+- [Data Integrity and Cleansing](https://market-disrupt.github.io/llms.txt/pages/data-integrity-and-cleansing.md): CRM deduplication, standardization, and data quality.
+- [Zendesk & HubSpot Integration](https://market-disrupt.github.io/llms.txt/pages/zendesk-hubspot-integration.md): Connecting Zendesk and HubSpot to unify support and sales data.
+- [Internal Service Desk Systems](https://market-disrupt.github.io/llms.txt/pages/internal-service-desk-systems.md): IT support ticketing, routing, and SLAs.
+- [Employee Knowledge & Enablement](https://market-disrupt.github.io/llms.txt/pages/employee-knowledge-enablement.md): Internal knowledge bases and enablement workflows.
+- [IT Asset Management](https://market-disrupt.github.io/llms.txt/pages/it-asset-management-system-development.md): ITAM data models, workflows, and reporting.
+- [Website Design & Development](https://market-disrupt.github.io/llms.txt/pages/website-design-development.md): High-performing Webflow websites built to convert.
+
+## Industries
+- [Technology](https://market-disrupt.github.io/llms.txt/pages/tech-industry.md): CRM automation and Zendesk workflows for SaaS and tech teams.
+- [Fitness](https://market-disrupt.github.io/llms.txt/pages/fitness-industry.md): CRM setup and conversion-focused websites for fitness businesses.
+- [Legal](https://market-disrupt.github.io/llms.txt/pages/legal-industry.md): Intake automations and pipeline tracking for law firms.
+- [Healthcare/Medical](https://market-disrupt.github.io/llms.txt/pages/medical-industry.md): CRM and CX systems for faster intake and follow-up.
+- [Automotive](https://market-disrupt.github.io/llms.txt/pages/automotive-industry.md): Lead capture and follow-up automation for dealers and auto shops.
 
 ## Platform Comparisons
-- [Zendesk vs. Freshdesk](https://marketdisrupt.io/zendesk-vs-freshdesk): Feature-by-feature comparison of Zendesk and Freshdesk across ticketing, automation, reporting, and pricing. Includes a recommendation guide for teams evaluating both platforms.
-- [Zendesk vs. Intercom](https://marketdisrupt.io/zendesk-vs-intercom): Comparison of Zendesk and Intercom covering ticketing, messaging, AI tools, and use cases. Covers which platform suits SaaS vs. traditional support teams.
-- [HubSpot vs. Salesforce](https://marketdisrupt.io/hubspot-vs-salesforce): Side-by-side comparison of HubSpot and Salesforce CRM across ease of use, marketing features, reporting, and pricing for SMBs and enterprise buyers.
-- [HubSpot vs. Pipedrive](https://marketdisrupt.io/hubspot-vs-pipedrive): Comparison of HubSpot and Pipedrive for growing sales teams, covering pipeline tools, automation, marketing features, and cost-effectiveness.
+- [Zendesk vs. Freshdesk](https://market-disrupt.github.io/llms.txt/pages/zendesk-vs-freshdesk.md): Feature comparison with recommendation guide.
+- [Zendesk vs. Intercom](https://market-disrupt.github.io/llms.txt/pages/zendesk-vs-intercom.md): Comparison covering ticketing, messaging, AI tools, and use cases.
+- [HubSpot vs. Salesforce](https://market-disrupt.github.io/llms.txt/pages/hubspot-vs-salesforce.md): Side-by-side comparison for SMBs and enterprise buyers.
+- [HubSpot vs. Pipedrive](https://market-disrupt.github.io/llms.txt/pages/hubspot-vs-pipedrive.md): Comparison for growing sales teams.
 
 ## Company
-- [About](https://marketdisrupt.io/about-us): Founded in 2015, senior-led consulting firm focused on optimization of existing platforms over new implementations.
-- [Blog](https://marketdisrupt.io/blog): Articles on Zendesk, HubSpot, Webflow, CRM strategy, and customer service best practices.
-- [Contact](https://marketdisrupt.io/contact-us): contact@marketdisrupt.io | +1 (817) 458-0191
-- [FAQ](https://marketdisrupt.io/faq): Common questions about Market Disrupt services, process, and engagement model.
+- [About](https://market-disrupt.github.io/llms.txt/pages/about.md): Founded 2015. Senior-led consulting focused on platform optimization.
+- [Blog](https://market-disrupt.github.io/llms.txt/pages/blog.md): Articles on Zendesk, HubSpot, Webflow, and CRM strategy.
+- [Contact](https://market-disrupt.github.io/llms.txt/pages/contact.md): contact@marketdisrupt.io | +1 (817) 458-0191
+- [FAQ](https://market-disrupt.github.io/llms.txt/pages/faq.md): Common questions about services, process, and engagement model.
+- [Privacy Policy](https://market-disrupt.github.io/llms.txt/pages/privacy-policy.md): Data collection and usage policy.
