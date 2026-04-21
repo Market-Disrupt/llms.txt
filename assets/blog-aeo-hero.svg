@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" width="1600" height="900">
+  <defs>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="rgba(250,248,243,0.08)" stroke-width="1"/>
+    </pattern>
+    <radialGradient id="glow" cx="50%" cy="40%" r="50%">
+      <stop offset="0%" stop-color="rgba(181,232,83,0.35)"/>
+      <stop offset="100%" stop-color="transparent"/>
+    </radialGradient>
+  </defs>
+  <!-- Background -->
+  <rect width="1600" height="900" fill="#000000"/>
+  <rect width="1600" height="900" fill="url(#grid)"/>
+  <rect width="1600" height="900" fill="url(#glow)"/>
+  <!-- Corner labels -->
+  <g font-family="'JetBrains Mono', monospace" font-size="13" fill="rgba(250,248,243,0.45)" letter-spacing="2">
+    <text x="60" y="80">◆ AI SEARCH · APR 2026</text>
+    <text x="60" y="840">MARKETDISRUPT.IO/BLOG</text>
+    <text x="1540" y="840" text-anchor="end">ANSWER ENGINE OPTIMIZATION</text>
+  </g>
+  <!-- Main headline -->
+  <text x="800" y="390" text-anchor="middle" font-family="'Georgia', serif" font-style="italic" font-size="170" fill="#FAF8F3" letter-spacing="-4" opacity="0.95">What is AEO?</text>
+  <!-- Subhead -->
+  <text x="800" y="490" text-anchor="middle" font-family="'Arial', sans-serif" font-weight="500" font-size="46" fill="#B5E853" letter-spacing="-1">Get cited by the AI, not buried below it.</text>
+  <!-- Engine badges -->
+  <g transform="translate(530, 590)" font-family="'JetBrains Mono', monospace" font-size="14" fill="#FAF8F3">
+    <rect x="0" y="0" width="130" height="42" rx="4" fill="none" stroke="rgba(250,248,243,0.22)"/>
+    <text x="65" y="27" text-anchor="middle">ChatGPT</text>
+    <rect x="150" y="0" width="130" height="42" rx="4" fill="none" stroke="rgba(250,248,243,0.22)"/>
+    <text x="215" y="27" text-anchor="middle">Perplexity</text>
+    <rect x="300" y="0" width="170" height="42" rx="4" fill="none" stroke="rgba(250,248,243,0.22)"/>
+    <text x="385" y="27" text-anchor="middle">AI Overviews</text>
+    <rect x="490" y="0" width="150" height="42" rx="4" fill="none" stroke="rgba(250,248,243,0.22)"/>
+    <text x="565" y="27" text-anchor="middle">Bing Copilot</text>
+  </g>
+  <!-- Market Disrupt branding line -->
+  <text x="800" y="780" text-anchor="middle" font-family="'Arial', sans-serif" font-size="18" fill="rgba(250,248,243,0.3)" letter-spacing="4">MARKET DISRUPT · HUBSPOT PLATINUM PARTNER</text>
+</svg>
